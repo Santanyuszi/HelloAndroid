@@ -1,2 +1,0 @@
-# HelloAndroid
-First Android App
